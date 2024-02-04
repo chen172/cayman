@@ -42,7 +42,7 @@ git config --global https.proxy "https://127.0.0.1:10808"
 ```
 
 ## download video
-https://bilibili.iiilab.com/
+<https://bilibili.iiilab.com/>
 
 # 2. Useful command 
 ## Change suffix
@@ -249,7 +249,7 @@ int main (){
 ```
 
 ## windows call dll in C++
-```C++
+```c++
 #include <windows.h>
 #include <iostream>
 
@@ -287,7 +287,7 @@ int main()
 ```
 
 ## call python in C++
-```C++
+```c++
 #include "Python.h"
     // c++ call python example
     Py_SetPythonHome(L"path/to/python3_x64-windows/tools/python3");
