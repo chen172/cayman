@@ -214,7 +214,7 @@ ref:
 
 # Useful code
 ## convert from `int` to the `string` in C++
-```C++
+```c++
 #include <string> 
 
 std::string s = std::to_string(42);
@@ -224,7 +224,7 @@ ref:
 1. https://stackoverflow.com/questions/5590381/how-to-convert-int-to-string-in-c
 
 ## write lines to a file in C++
-```C++
+```c++
 #include <iostream>
 #include <fstream>
 #include <string>
