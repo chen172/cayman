@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[proxy-setting](#1-proxy-setting) [useful-command](#2-useful-command) [useful-code](#useful-code) [useful-link](#useful-link)
+
 # 1. Proxy setting
 ## Windows
 ```
